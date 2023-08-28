@@ -4,16 +4,16 @@ repo: upptimerobot # The name of this repository
 user-agent: web5k
 
 sites:
-		- name: Favero Assioma Pedales DUO
-				url: https://cycling.favero.com/fr/shop/assioma-duo
-		- name: Apple Alexa Music Available Countries
-				url: https://support.apple.com/en-us/HT209250
-		- name: Conga composer App for Salesforce
-				url: https://appexchange.salesforce.com/listingDetail?listingId=a0N300000016b7FEAQ&tab=d
-		- name: UnOfficial SF Flow Acion Base Pack and Screen Component Basepacks
-				url: https://unofficialsf.com/flow-action-and-screen-component-basepacks/
-		- name: UnOfficial SF Flow DataMapper to Convert web Json to SF Objects
-				url: https://unofficialsf.com/use-datamapper-to-convert-web-json-to-salesforce-flow-objects/
+  - name: Favero Assioma Pedales DUO
+    url: https://cycling.favero.com/fr/shop/assioma-duo
+  - name: Apple Alexa Music Available Countries
+    url: https://support.apple.com/en-us/HT209250
+  - name: Conga composer App for Salesfore
+    url: https://appexchange.salesforce.com/listingDetail?listingId=a0N300000016b7FEAQ&tab=d
+  - name: UnOfficial SF Flow Acion Base Pack and Screen Component Basepacks
+    url: https://unofficialsf.com/flow-action-and-screen-component-basepacks/
+  - name: UnOfficial SF Flow DataMapper to Convert web Json to SF Objects
+    url: https://unofficialsf.com/use-datamapper-to-convert-web-json-to-salesforce-flow-objects/
 
 assignees: # Users to assign downtime issues (optional)
   - web5k
