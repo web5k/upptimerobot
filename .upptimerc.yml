@@ -11,10 +11,7 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
-  - name : Favero Pedales Cassioma
-    url : https://cycling.favero.com/fr/product-sheet?macro-category=20&selected-id=3&type=1
-  - name : Apple Alexa Music Cyprus
-    url : https://support.apple.com/ro-ro/HT209250
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
