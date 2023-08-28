@@ -4,15 +4,15 @@ repo: upptimerobot # The name of this repository
 user-agent: web5k
 
 sites:
- - name: Favero Assioma Pédales DUO
+ - name: Favero Assioma Pedales DUO
     url: https://cycling.favero.com/fr/shop/assioma-duo
-  - name: Apple Alexa Music Available Countries
+ - name: Apple Alexa Music Available Countries
     url: https://support.apple.com/en-us/HT209250
-  - name: Conga composer App for Salesforce
+ - name: Conga composer App for Salesforce
     url: https://appexchange.salesforce.com/listingDetail?listingId=a0N300000016b7FEAQ&tab=d
-  - name: UnOfficial SF Flow Acion Base Pack and Screen Component Basepacks
+ - name: UnOfficial SF Flow Acion Base Pack and Screen Component Basepacks
     url: https://unofficialsf.com/flow-action-and-screen-component-basepacks/
-  - name: UnOfficial SF Flow DataMapper to Convert web Json to SF Objects
+ - name: UnOfficial SF Flow DataMapper to Convert web Json to SF Objects
     url: https://unofficialsf.com/use-datamapper-to-convert-web-json-to-salesforce-flow-objects/
 
 assignees: # Users to assign downtime issues (optional)
@@ -25,6 +25,7 @@ status-website:
   baseUrl: /upptimerobot
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: UpptimeRobot
+  theme: dark
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
