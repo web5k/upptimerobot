@@ -14,6 +14,8 @@ sites:
     url: https://unofficialsf.com/flow-action-and-screen-component-basepacks/
   - name: UnOfficial SF Flow DataMapper to Convert web Json to SF Objects
     url: https://unofficialsf.com/use-datamapper-to-convert-web-json-to-salesforce-flow-objects/
+  - name: SF Flow Modal
+    url: https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000FMYinUAH&modal=where_to_install_package
 
 assignees: # Users to assign downtime issues (optional)
   - web5k
